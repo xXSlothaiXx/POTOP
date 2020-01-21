@@ -18,6 +18,6 @@ If the script is working, You should see BOTH TCP AND UDP connection messages wh
 
 If the script is only sending UDP packets, it means that the port is not working or open. 
 
-Be careful when testing this script on Samsung galaxy devices. The galaxy devices seem to have a protocol that disconnects from wifi if it is receiving too many pakcets. THIS SCRIPT WILL create authentication errors with wifi to the target who owns a samsung device
+Be careful when testing this script on Samsung galaxy devices. The galaxy devices seem to have a protocol that disconnects from wifi if it is receiving too many packets. THIS SCRIPT WILL create authentication errors with wifi to the target who owns a samsung device
 
 ### I AM NOT RESPONSIPLE FOR HOW YOU USE THIS. If you are DOS'ing devices without permission, you are liable and will face legal repercussions.  
