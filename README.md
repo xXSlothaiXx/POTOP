@@ -5,6 +5,8 @@ This is a local TCP/UDP Flooder made with python to test open ports for local de
 ### SETUP
 ```
 pip install bcolors && pip install pyfiglet 
+
+python potop.py
 ```
 ## GENERAL Information 
 
