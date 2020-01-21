@@ -12,7 +12,7 @@ python potop.py
 
 This script uses TCP and UDP sockets for sending multiple connections to a device
 
-2 threads are utlized and create instances of TCP and UDP connection flooding
+2 threads are utilized and create instances of TCP and UDP connection flooding
 
 If the script is working, You should see BOTH TCP AND UDP connection messages when sending connections.
 
