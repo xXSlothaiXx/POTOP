@@ -19,8 +19,8 @@ print("\n")
 data = random._urandom(16)
 bytes = random._urandom(16)
 
-ip = raw_input("Enter your ip: ")
-port = raw_input("Enter PORT:")
+ip = input("Enter your ip: ")
+port = input("Enter PORT:")
 
 socket_threads = []
 udp_threads = []
